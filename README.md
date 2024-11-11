@@ -26,3 +26,29 @@ The Online Exam System is a simple Java-based application that simulates the pro
 3. Compile the Java code:
    ```bash
    javac OnlineExamSystem.java
+   ```
+4. Run the program:
+ ```bash
+   java OnlineExamSystem
+```
+## Usage
+
+## Usage
+
+- Upon running the program, you will be prompted to enter a username and password for registration.
+- After registering, log in using the credentials you provided.
+- The exam will begin with a 10-minute timer.
+- Answer each question by selecting **Option 1** or **Option 2**.
+- After answering all questions, you can either:
+  - Submit the exam, or
+  - Wait for the timer to expire.
+- The system will display your score based on the answers and log you out after submission.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
+## Contact
+
+For any queries or suggestions, feel free to contact me at `sharmisthachowdhury728@gmail.com`.
+
