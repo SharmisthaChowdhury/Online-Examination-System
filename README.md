@@ -31,7 +31,6 @@ The Online Exam System is a simple Java-based application that simulates the pro
  ```bash
    java OnlineExamSystem
 ```
-## Usage
 
 ## Usage
 
